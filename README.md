@@ -1,5 +1,3 @@
-# Registration-Form
-
 # Simple Registration Form with Real-Time Validation
 
 This project features a basic registration form built with HTML, CSS, and JavaScript. The form includes fields for Name, Email, Password, and Confirm Password, along with real-time validation to ensure correct input before submission.
